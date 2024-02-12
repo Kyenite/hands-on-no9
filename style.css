@@ -31,6 +31,7 @@ article{
     height: min-content;
     padding: 20px;
     box-shadow: inset 2px 2px 2px yellow,3px 3px 3px white;
+    text-decoration-line: none;
 }
 
 article a{
