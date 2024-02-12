@@ -33,6 +33,10 @@ article{
     box-shadow: inset 2px 2px 2px yellow,3px 3px 3px white;
 }
 
+article a{
+    list-line-style: none;
+}
+
 @media (max-width: 1439px) {
     main {
       grid-template-columns: repeat(1, minmax(100%, 1fr));
