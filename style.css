@@ -34,7 +34,7 @@ article{
 }
 
 article a{
-    list-line-style: none;
+    text-decoration-line: none;
 }
 
 @media (max-width: 1439px) {
