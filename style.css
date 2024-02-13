@@ -22,7 +22,7 @@ header > h1{
     padding: 20px 30px;
     font-size: larger;
     background-color: white;
-    box-shadow: inset 2px 2px 2px yellow,3px 3px 3px white;
+    box-shadow: inset 5px 5px 5px yellow,5px 5px 5px white;
 }
 
 article{
@@ -30,7 +30,7 @@ article{
     border: 1px solid;
     height: min-content;
     padding: 20px;
-    box-shadow: inset 2px 2px 2px yellow,3px 3px 3px white;
+    box-shadow: inset 5px 5px 5px yellow,5px 5px 5px white;
     text-decoration-line: none;
 }
 
